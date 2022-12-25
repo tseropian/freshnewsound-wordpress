@@ -1,0 +1,105 @@
+Plugin Name: SRG Clean Archives
+Plugin URI: http://www.idunzo.com/projects/clean-archives/
+Description: This plugin is designed to display your archive listings in a clean and uniform fashion that's Search Engine 
+friendly on a dedicated page or in your sidebar.
+Author: Sean R. - iDunzo.com
+Author URI: http://www.idunzo.com
+
+
+Change Log:
+====================================================
+Current version 4.3 supports WordPress 2.5.x only.
+Version: 4.2 supports WordPress versions 2.1.x thru 2.3).
+
+
+
+Version 4.3 - May 18, 2008
+====================================================
+Small fix to allow support for WordPress version 2.5.x release.
+
+
+
+Version 4.2 - September 23, 2007
+====================================================
+Confirmed works with new WordPress 2.3 release.
+
+
+
+Version 4.1 - June 21, 2007
+====================================================
+Plugin is completely localized. Current language packs: English (default), French and German.
+Minor code clean up and enhancements. Confirmed works with new WordPress 2.2.1 release. 
+
+
+
+Version 4.0.4 - May 30, 2007
+====================================================
+Fixed a small code validation error.
+
+
+
+Version 4.0.3 - May 29, 2007
+====================================================
+Per a user feature request I added an option to the plugin admin menu so you can toggle on/off showing a link to your 
+detailed monthly post archive (standard WordPress paged archives). Link appears below month link if toggled on.
+
+
+
+Version 4.0.2 - released May 27, 2007
+====================================================
+Did a little code clean up so the archive output validates XHTML (pending your page template is valid). Per a user feature 
+request I added an option to the plugin admin menu so you can toggle on/off the moo.fx for collapsing months (on by default).
+If moo.fx is not enabled, your full archive display is shown but it's still using the caching function.
+
+
+
+Version 4.0 and 4.0.1 - released May 25, 2007
+====================================================
+Major release. Once again the plugin code has been reworked from version 3.0.1. Added new features to the plugin admin page 
+so you can toggle on/off showing total post count next to month (on by default) and toggle on/off showing total comment count 
+next to post title (on by default). Added option to toggle on/off password protected post display (off by default). Added caching 
+function which caches the output so the plugin only generates 1 or 2 queries each time the page is viewed. This version of the 
+plugin is now moo.fx enhanced which means that for people who post a lot won't have an archive page that's 3 miles long.
+
+
+
+Version 3.0.1 - released May 16, 2007
+====================================================
+Bug fix release. Fixed an error where unnecessary database queries were being made. Fixed issue with visual editor.
+Other minor code optimizations.
+
+
+
+Version 3.0 - released May 15, 2007
+====================================================
+Major release. Plugin code has been completely rewritten from version 2.1. New features and improvements 
+include: SRG Clean Archives Admin Page, Toggle on and off (off by default) comment display (it use to be hard 
+coded in the plugin), Streamlined code (less database queries). You can now create a dedicated archives page 
+using the default WordPress page template from any theme.
+
+
+
+Annoucement: New Plugin Developer - April 30, 2007
+====================================================
+Original Author (versions 1.0 thru 2.1) Shawn Grimes (http://www.sporadicnonsense.com) turns over all future 
+plugin development to GeekWithLaptop.com and iDunzo.com
+
+
+
+Version 2.1 - released January 27, 2007
+====================================================
+Small update fixing the issue of "Pages" appearing in the archives list after upgrading to WordPress 2.1.
+
+
+
+Version 2.0 - released May 4, 2006
+==================================================== 
+Did a bit of code cleaning and some requests fulfilled. Option inside plugin source file to turn on or off the 
+comment count in the archives display (off by default). Small update fixing an issue with the plug-in showing 
+comment count of comments that are in moderation. 
+
+
+
+Version 1.0 - released April 28, 2005
+==================================================== 
+Plugin intial first release.
